@@ -6,12 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    
-
-
-
-
-
 
 <form method="post" action="procesar_datos.php">
   <label for="rut">RUT del Proveedor:</label>
